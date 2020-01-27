@@ -4,19 +4,27 @@ This is a paper list for the pre-training based dialogue models. It involve both
 
 **Keyword**: *Dialgue model, Pre-training method, Natural Language Processing*
 
-## Paper List
+# Paper List
+
+## Pre-Training Method
+
+- Improving Language Understanding by Generative Pre-Training, OpenAI Blog, [[paper]](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+- Better Language Models and Their Implications, OpenAI Blog, [[paper]](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 - ConveRT: Efficient and Accurate Conversational Representations from Transformers, Arxiv-2019, [[paper]](https://arxiv.org/abs/1911.03688)
 
 - DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation, Arxiv-2019, [[paper]](https://arxiv.org/abs/1911.00536), [[code]](https://github.com/microsoft/DialoGPT)
 
-- Few-shot NLG with Pre-trained Language Model, Arxiv-2019, [[paper]](https://arxiv.org/abs/1904.09521), [[code]](https://github.com/czyssrs/Few-Shot-NLG)
+- PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable, Arxiv-2019, [[paper]](https://arxiv.org/abs/1910.07931)
 
-- Relevance-Promoting Language Model for Short-Text Conversation, AAAI-2020, [[paper]](https://arxiv.org/abs/1911.11489)
+## Task-Oriented Dialog
 
 - Hello, It's GPT-2--How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems, WNGT2019, [[paper]](https://arxiv.org/abs/1907.05774)
 
-- PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable, Arxiv-2019, [[paper]](https://arxiv.org/abs/1910.07931)
+## Open-Domain Dialog
+
+- Relevance-Promoting Language Model for Short-Text Conversation, AAAI-2020, [[paper]](https://arxiv.org/abs/1911.11489)
 
 - Transfertransfo: A transfer learning approach for neural network based conversational agents, NeurIPS 2018 CAI Workshop, [[paper]](https://arxiv.org/abs/1901.08149)
 
@@ -25,6 +33,10 @@ This is a paper list for the pre-training based dialogue models. It involve both
 - Persona-aware Dialogue Generation with Enriched Profile, AAAI2020, [[paper]](https://arxiv.org/abs/1901.09672)
 
 - Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline, Arxiv2019, [[paper]](https://arxiv.org/abs/1912.02379)
+
+## Pre-training Based Text Generation (Not Dialog)
+
+- Few-shot NLG with Pre-trained Language Model, Arxiv-2019, [[paper]](https://arxiv.org/abs/1904.09521), [[code]](https://github.com/czyssrs/Few-Shot-NLG)
 
 ## Copyright 
 By Yinhe Zheng (zhengyinhe1@163.com)
