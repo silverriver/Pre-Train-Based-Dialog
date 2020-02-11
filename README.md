@@ -15,6 +15,7 @@ This is a paper list for the pre-training based dialogue models. It involve both
 - PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable, Arxiv-2019, [[paper]](https://arxiv.org/abs/1910.07931)
 - Pre-training Based Text Generation MASS: Masked Sequence to Sequence Pre-training for Language Generation, ICML2019, [[paper]](https://arxiv.org/pdf/1905.02450), [[code]](https://github.com/microsoft/MASS)
 - Unified Language Model Pre-training for Natural Language Understanding and Generation, NIPS2019, [[paper]](https://arxiv.org/abs/1905.03197), [[code]](https://github.com/microsoft/unilm)
+- Denoising based Sequence-to-Sequence Pre-training for Text Generation, EMNLP2019, [[paper]](https://arxiv.org/abs/1908.08206), [[code]](https://github.com/yuantiku/PoDA)
 
 ## Task-Oriented Dialog
 
