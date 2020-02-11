@@ -15,12 +15,15 @@ This is a paper list for the pre-training based dialogue models. It involve both
 - PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable, Arxiv-2019, [[paper]](https://arxiv.org/abs/1910.07931)
 - Pre-training Based Text Generation MASS: Masked Sequence to Sequence Pre-training for Language Generation, ICML2019, [[paper]](https://arxiv.org/pdf/1905.02450), [[code]](https://github.com/microsoft/MASS)
 - Unified Language Model Pre-training for Natural Language Understanding and Generation, NIPS2019, [[paper]](https://arxiv.org/abs/1905.03197), [[code]](https://github.com/microsoft/unilm)
+- Pretraining Methods for Dialog Context Representation Learning, ACL2019, [[paper]](https://www.aclweb.org/anthology/P19-1373.pdf)
 - Denoising based Sequence-to-Sequence Pre-training for Text Generation, EMNLP2019, [[paper]](https://arxiv.org/abs/1908.08206), [[code]](https://github.com/yuantiku/PoDA)
+- Masking Orchestration: Multi-task Pretraining for Multi-role Dialogue Representation Learning, AAAI2020
 
 ## Task-Oriented Dialog
 
 - Hello, It's GPT-2--How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems, WNGT2019, [[paper]](https://arxiv.org/abs/1907.05774)
 - Task-oriented Dialog Alternating Roles Dialog Model with Large-scale Pre-trained Language Models, Arxiv-2019, [[paper]](https://arxiv.org/abs/1910.03756)
+- Attention-Informed Mixed-Language Training for Zero-shot Cross-lingual Task-oriented Dialogue Systems, AAAI2020, [[paper]](https://arxiv.org/pdf/1911.09273.pdf), [[code]](https://github.com/zliucr/mixed-language-training)
 
 ## Open-Domain Dialog
 
