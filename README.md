@@ -33,6 +33,7 @@ This is a paper list for the pre-training based dialogue models. It involve both
 ## Pre-training Based Text Generation (Not Dialog)
 
 - Few-shot NLG with Pre-trained Language Model, Arxiv-2019, [[paper]](https://arxiv.org/abs/1904.09521), [[code]](https://github.com/czyssrs/Few-Shot-NLG)
+- Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer, EMNLP-2019, [[paper]](https://www.aclweb.org/anthology/D19-1365/), [[code]](https://github.com/jimth001/formality_emnlp19)
 
 ## Copyright 
 By Yinhe Zheng (zhengyinhe1@163.com)
